@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Registration Form</title>
+    </head>
+    <body>
+    <form>
+        <table>
+            <tr>
+                <td>
+                    First Name:
+                </td>
+                <td>
+                    <input type="text" name "">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Last Name:
+                </td>
+                <td><input type="text" last name "">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Email:
+                </td>
+                <td><input type="text" email "">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password:
+                </td>
+                <td><input type="text" password "">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password Confirmation:
+                </td>
+                <td><input type="text" password confirmation"">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Date of Birth:
+                </td>
+                <td>
+                    <select name="Month">
+                        <option value="January">January</option>
+                        <option value="February">February</option>
+                        <option value="March">March</March>
+                    </select>
+                    <select name="Day">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                    <select name="Year">
+                        <option value="1990">1990</option>
+                        <option value="1989">1989</option>
+                        <option value="1988">1988</option>
+                        <option value="1987">1987</option>
+                        <option value="1986">1986</option>
+                        <option value="1985">1985</option>
+                        <option value="1984">1984</option>
+                        <option value="1983">1983</option>
+                    </select>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    Gender:
+                </td>
+                <td>
+                    <input type="radio" name = "Gender">Male
+                    <input type="radio" name = "Gender">Female
+                    <input type="radio" name = "Gender">Other
+                </td>
+            </tr>
+            <tr>
+                <td>A Short Description about yourself: </td>
+                <td>
+                    <textarea name="Short Description"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Favorite Language:
+                </td>
+                <td>
+                    <select name="Favorite Language">
+                        <option value="JavaScript">JavaScript</option>
+                        <option value="Python">Python</option>
+                        <option value="Python">CSS</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="Submit" value="Submit" name "">
+                </td>
+            </tr>   
+        </table>
+
+
+    </form>
+       
+           
+            
+ 
+
+
+
+
+    </body>
+</html>
